@@ -1,0 +1,12 @@
+.tox
+.git
+.DS_Store
+.gitignore
+.mypy_cache
+.gitlab
+__mocks__
+.pytest_cache
+.vscode
+__pycache__
+static
+node_modules
